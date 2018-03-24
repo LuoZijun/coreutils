@@ -247,6 +247,7 @@ wc       = { optional=true, path="src/wc" }
 who      = { optional=true, path="src/who" }
 whoami   = { optional=true, path="src/whoami" }
 yes      = { optional=true, path="src/yes" }
+find     = { optional=true, path="src/find" }
 
 [dev-dependencies]
 time = "0.1.38"
